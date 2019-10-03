@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo Komponen</string>
+    <string-array name="spinner_prodi">
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen Informatika</item>
+        <item>Teknik Elektro</item>
+        <item>Sistem Komputer</item>
+        <item>Teknik Sipil</item>
+        <item>Arsitektur</item>
+    </string-array>
+</resources>
